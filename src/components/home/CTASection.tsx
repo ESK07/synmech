@@ -36,11 +36,11 @@ export function CTASection() {
 
           {/* Quick Contact */}
           <div className="flex flex-col sm:flex-row items-center justify-center gap-8 text-primary-foreground/70">
-            <a href="tel:+15551234567" className="flex items-center gap-2 hover:text-accent transition-colors">
+            <a href="tel:+27655060626" className="flex items-center gap-2 hover:text-accent transition-colors">
               <Phone className="w-5 h-5" />
-              <span>+1 (555) 123-4567</span>
+              <span>+27655060626</span>
             </a>
-            <a href="mailto:info@synermech.com" className="flex items-center gap-2 hover:text-accent transition-colors">
+            <a href="mailto:sales@synermech.co.zw" className="flex items-center gap-2 hover:text-accent transition-colors">
               <Mail className="w-5 h-5" />
               <span>info@synermech.com</span>
             </a>
