@@ -42,7 +42,7 @@ export function CTASection() {
             </a>
             <a href="mailto:sales@synermech.co.zw" className="flex items-center gap-2 hover:text-accent transition-colors">
               <Mail className="w-5 h-5" />
-              <span>info@synermech.com</span>
+              <span>sales@synermech.co.zw</span>
             </a>
           </div>
         </div>
